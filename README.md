@@ -19,7 +19,7 @@ You can visit the live website at [https://priyank-jagad-portfolio.vercel.app/](
 - [Next.js](https://nextjs.org/) - React framework for server-side rendering and static website generation
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapid UI development
-- [GSAP]([https://www.framer.com/motion/](https://gsap.com/)) - Animation library for React applications
+- [GSAP](https://gsap.com/) - Animation library for React applications
 - [TypeScript](https://www.typescriptlang.org/) - Superset of JavaScript that adds optional static typing
 - [EmailJS](https://www.emailjs.com/) - Service for sending emails directly from JavaScript
 
@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 2. Install the dependencies:
    ```bash
-   cd priyank-portfolio
+   cd Priyank-Portfolio
    npm install
 
 3. Start the development Server:
@@ -45,5 +45,5 @@ To run the project locally, follow these steps:
 
 4. Open http://localhost:3000 in your browser to see the website.
 
-##Contributing
+## Contributing
 If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
